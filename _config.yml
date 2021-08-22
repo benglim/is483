@@ -59,7 +59,7 @@ plugins:
 
 author:
   name   : "NG Beng Lim"
-  avatar : "/assets/images/nbl.jpg"
+  avatar : "/assets/images/nbl.png"
   bio    : "Adjunct Faculty, SMU"
   links:
     - label: "Website"
