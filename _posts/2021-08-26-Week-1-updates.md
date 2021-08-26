@@ -15,7 +15,8 @@ Earlier I mentioned the need for a requirements catalogue. This document can go 
 
 A good introduction to this concept can be found here:
 
-[Traceability Matrix]([What is Requirements Traceability Matrix (RTM)? Example Template (guru99.com)](https://www.guru99.com/traceability-matrix.html)
+[What is Requirements Traceability Matrix (RTM)? Example Template (guru99.com)](https://www.guru99.com/traceability-matrix.html)
+
 
 I have also placed a sample template in the shared folder. The minimum required would be the info in the Requirements Information column.
 
