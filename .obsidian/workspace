@@ -1,0 +1,96 @@
+{
+  "main": {
+    "id": "c7c2100a574b7424",
+    "type": "split",
+    "children": [
+      {
+        "id": "cca78ba67bd92290",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "_posts/2021-08-22-Week-1.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "45f39560fd5c006d",
+    "type": "split",
+    "children": [
+      {
+        "id": "d12b07b2bf49c60b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "10cecab492011649",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "9e27d1dfd39663bb",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "9f3dd3b395debe26",
+    "type": "split",
+    "children": [
+      {
+        "id": "31c5e6c1f8a92b44",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "57cd4baac6c84c92",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "_posts/2021-08-22-Week-1.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "cca78ba67bd92290",
+  "lastOpenFiles": [
+    "_posts/2021-08-22-Week-1.md",
+    "_posts/2021-08-26-Week-1-updates.md",
+    "_templates/Untitled.md",
+    "_posts/Untitled.md"
+  ]
+}
