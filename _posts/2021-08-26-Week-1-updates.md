@@ -20,3 +20,4 @@ A good introduction to this concept can be found here:
 
 I have also placed a sample template in the shared folder. The minimum required would be the info in the Requirements Information column.
 
+[Requirements Catalogue Template](https://smu-my.sharepoint.com/:x:/r/personal/benglimng_smu_edu_sg/Documents/SMU/Team%20All/requirement-traceability-matrix.xlsx?d=we42a5e1acd8849f790b2e2462ad3070d&csf=1&web=1&e=yPdvLt)
