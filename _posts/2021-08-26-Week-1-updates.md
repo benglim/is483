@@ -25,7 +25,7 @@ I have also placed a sample template in the shared folder. The minimum required 
 ## Requirements Gathering
 Before the Requirements Catalogue can be produced, the requirements need to be fully gathered. This is an interesting article to read.
 
-[10 Steps To Successful Requirements Gathering | Phase2 Technology](https://www.phase2technology.com/blog/successful-requirements-gathering)
+[10 Steps To Successful Requirements Gathering](https://www.phase2technology.com/blog/successful-requirements-gathering)
 
 1. Don't just document normal flow. You need to ask questions on what the except flows are to make the system complete.
 2. Find out the functional as well as non-functional (eg security) requirements.
